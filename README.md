@@ -53,6 +53,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="Mathematica Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
 
+<a href="https://www.latex-project.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/2048px-Overleaf_Logo.svg.png" alt="LaTeX Logo" style="height: 40px; margin-right: 20px;">
+</a>&nbsp;
+
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/640px-Bash_Logo_Colored.svg.png" alt="Bash Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
@@ -77,16 +81,10 @@
   <img src="https://play-lh.googleusercontent.com/gdPzb-Oss6wI0v5P9HY5N15eb-nroNCiRnPXrtjvV2zoz4Q0Buw67e_RYkF0CsYvMx7F" alt="COMSOL Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
 
-<br>
-
 <a href="https://www.arduino.cc/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
 
-<a href="https://www.latex-project.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/640px-LaTeX_logo.svg.png" alt="LaTeX Logo" style="height: 40px; margin-right: 20px;">
-</a>&nbsp;
-
 <a href="https://index.ros.org/doc/ros2/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS 2.0 Logo" style="height: 40px; margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" alt="ROS 2.0 Logo" style="height: 40px; margin-right: 20px;">
 </a>

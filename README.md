@@ -30,35 +30,20 @@
 ## Tools
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://img.shields.io/badge/C-%237396ad?style=for-the-badge&logo=c&logoColor=white" style="width: 120px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="width: 120px;">
 </a>
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://img.shields.io/badge/C++-%23f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="width: 120px;">
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-%233776ab?style=for-the-badge&logo=python&logoColor=white" style="width: 120px;">
-</a>
-
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://img.shields.io/badge/MATLAB-%23ed1b23?style=for-the-badge&logo=mathworks&logoColor=white" style="width: 120px;">
-</a>
-
-[![Python Logo](https://www.python.org/static/img/python-logo@2x.png)](https://www.python.org)
-
-[![Python Logo](https://www.python.org/static/img/python-logo@2x.png)](https://www.python.org)
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python Logo" style="width: 120px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" style="width: 120px;">
 </a>
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 120px;">
 </a>
 
-
-
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Logo" style="width: 120px;">
+</a>
 
 
 

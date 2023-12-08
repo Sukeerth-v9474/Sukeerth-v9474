@@ -53,6 +53,10 @@
   <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python Logo" style="width: 120px;">
 </a>
 
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 120px;">
+</a>
+
 
 
 

@@ -50,7 +50,7 @@
 </a>&nbsp;
 
 <a href="https://www.latex-project.org/" target="_blank">
-  <img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" alt="LaTeX Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/640px-LaTeX_logo.svg.png" alt="LaTeX Logo" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://www.wolfram.com/mathematica/" target="_blank">

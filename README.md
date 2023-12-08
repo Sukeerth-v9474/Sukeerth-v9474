@@ -50,7 +50,7 @@
 </a>&nbsp;
 
 <a href="https://www.latex-project.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" alt="LaTeX Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" alt="LaTeX Logo" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://www.wolfram.com/mathematica/" target="_blank">
@@ -58,7 +58,7 @@
 </a>&nbsp;
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://commons.wikimedia.org/wiki/File:Bash_Logo_Colored.svg" alt="Bash Logo" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">

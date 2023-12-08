@@ -30,20 +30,21 @@
 ## Tools
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://img.shields.io/badge/C-<ICON_NAME>?style=for-the-badge&logo=faux-language&logoColor=white" style="width: 120px;">
+  <img src="https://img.shields.io/badge/C-%237396ad?style=for-the-badge&logo=c&logoColor=white" style="width: 120px;">
 </a>
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://img.shields.io/badge/C++-<ICON_NAME>?style=for-the-badge&logo=faux-language&logoColor=white" style="width: 120px;">
+  <img src="https://img.shields.io/badge/C++-%23f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="width: 120px;">
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-<ICON_NAME>?style=for-the-badge&logo=faux-language&logoColor=white" style="width: 120px;">
+  <img src="https://img.shields.io/badge/Python-%233776ab?style=for-the-badge&logo=python&logoColor=white" style="width: 120px;">
 </a>
 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://img.shields.io/badge/MATLAB-<ICON_NAME>?style=for-the-badge&logo=faux-language&logoColor=white" style="width: 120px;">
+  <img src="https://img.shields.io/badge/MATLAB-%23ed1b23?style=for-the-badge&logo=mathworks&logoColor=white" style="width: 120px;">
 </a>
+
 
 
 

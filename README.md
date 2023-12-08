@@ -46,7 +46,7 @@
 </a>&nbsp;
 
 <a href="https://www.mathworks.com/products/simulink.html" target="_blank">
-  <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/clientcore/images/logo-mathworks.svg" alt="Simulink Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink Logo" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://www.latex-project.org/" target="_blank">
@@ -54,11 +54,11 @@
 </a>&nbsp;
 
 <a href="https://www.wolfram.com/mathematica/" target="_blank">
-  <img src="https://www.wolfram.com/systems-modeler/img/M-logo.png" alt="Mathematica Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="Mathematica Logo" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://commons.wikimedia.org/wiki/File:Bash_Logo_Colored.svg" alt="Bash Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/640px-Bash_Logo_Colored.svg.png" alt="Bash Logo" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
@@ -74,7 +74,7 @@
 </a>&nbsp;
 
 <a href="https://www.w3schools.com/sql/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_SQL_logo_variant_with_title.png" alt="SQL Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL Logo" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://www.arduino.cc/" target="_blank">
@@ -82,7 +82,7 @@
 </a>&nbsp;
 
 <a href="https://www.comsol.com/" target="_blank">
-  <img src="https://www.comsol.com/multiphysics.png" alt="COMSOL Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://play-lh.googleusercontent.com/gdPzb-Oss6wI0v5P9HY5N15eb-nroNCiRnPXrtjvV2zoz4Q0Buw67e_RYkF0CsYvMx7F" alt="COMSOL Logo" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://index.ros.org/doc/ros2/" target="_blank">

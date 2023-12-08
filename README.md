@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/MATLAB-%23ed1b23?style=for-the-badge&logo=mathworks&logoColor=white" style="width: 120px;">
 </a>
 
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/random/link)
+
 
 
 

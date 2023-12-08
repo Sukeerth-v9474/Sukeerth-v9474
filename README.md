@@ -66,7 +66,7 @@
 </a>&nbsp;
 
 <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
-  <img src="https://www.autodesk.com/sites/all/themes/autodesk_subtheme/logo.png" alt="Fusion 360 Logo" style="width: 40px; margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fusion_360_Logo.png" style="width: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">

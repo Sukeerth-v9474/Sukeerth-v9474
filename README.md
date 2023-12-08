@@ -29,21 +29,70 @@
 
 ## Tools
 
+## Tools
+
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="width: 40px; margin-right: 20px;">
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" style="width: 40px; margin-right: 20px;">
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 40px; margin-right: 20px;">
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Logo" style="width: 40px; margin-right: 20px;">
 </a>
+&nbsp;&nbsp;
+<a href="https://www.mathworks.com/products/simulink.html" target="_blank">
+  <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/clientcore/images/logo-mathworks.svg" alt="Simulink Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://www.latex-project.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" alt="LaTeX Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://www.wolfram.com/mathematica/" target="_blank">
+  <img src="https://www.wolfram.com/systems-modeler/img/M-logo.png" alt="Mathematica Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+  <img src="https://www.autodesk.com/sites/all/themes/autodesk_subtheme/logo.png" alt="AutoCAD Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
+  <img src="https://www.autodesk.com/sites/all/themes/autodesk_subtheme/logo.png" alt="Fusion 360 Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://www.w3schools.com/sql/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_SQL_logo_variant_with_title.png" alt="SQL Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://www.comsol.com/" target="_blank">
+  <img src="https://www.comsol.com/multiphysics.png" alt="COMSOL Logo" style="width: 40px; margin-right: 20px;">
+</a>
+
+<a href="https://index.ros.org/doc/ros2/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS 2.0 Logo" style="width: 40px;">
+</a>
+
+&nbsp;
+
 
 
 

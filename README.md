@@ -49,10 +49,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
 
-<a href="https://www.latex-project.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/640px-LaTeX_logo.svg.png" alt="LaTeX Logo" style="height: 40px; margin-right: 20px;">
-</a>&nbsp;
-
 <a href="https://www.wolfram.com/mathematica/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="Mathematica Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
@@ -66,7 +62,7 @@
 </a>&nbsp;
 
 <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fusion_360_Logo.png" style="height: 40px; margin-right: 20px;">
+  <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -77,17 +73,20 @@
   <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
 
+<a href="https://www.comsol.com/" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/gdPzb-Oss6wI0v5P9HY5N15eb-nroNCiRnPXrtjvV2zoz4Q0Buw67e_RYkF0CsYvMx7F" alt="COMSOL Logo" style="height: 40px; margin-right: 20px;">
+</a>&nbsp;
+
+<br>
+
 <a href="https://www.arduino.cc/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
 
-<a href="https://www.comsol.com/" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/gdPzb-Oss6wI0v5P9HY5N15eb-nroNCiRnPXrtjvV2zoz4Q0Buw67e_RYkF0CsYvMx7F" alt="COMSOL Logo" style="height: 40px; margin-right: 20px;">
+<a href="https://www.latex-project.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/640px-LaTeX_logo.svg.png" alt="LaTeX Logo" style="height: 40px; margin-right: 20px;">
 </a>&nbsp;
 
 <a href="https://index.ros.org/doc/ros2/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS 2.0 Logo" style="height: 40px; margin-right: 20px;">
 </a>
-
-
-

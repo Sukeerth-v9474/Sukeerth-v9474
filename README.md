@@ -1,7 +1,9 @@
 # Sukeerth Ramkumar
 
+<!--
 ![Sukeerth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukeerth-v9474&show_icons=true&theme=dark)
 <br>
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukeerth-v9474&layout=compact)](https://github.com/yourusername)

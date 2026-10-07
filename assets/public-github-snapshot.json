@@ -1,0 +1,57 @@
+{
+  "username": "Sukeerth-v9474",
+  "scope": "Public repositories only; includes forks. Profile repository excluded from language counts.",
+  "publicRepositories": 17,
+  "memberSince": "2021",
+  "languages": [
+    {
+      "name": "Jupyter Notebook",
+      "repositories": 8
+    },
+    {
+      "name": "Python",
+      "repositories": 5
+    },
+    {
+      "name": "HTML",
+      "repositories": 3
+    },
+    {
+      "name": "TeX",
+      "repositories": 3
+    },
+    {
+      "name": "JavaScript",
+      "repositories": 2
+    },
+    {
+      "name": "Makefile",
+      "repositories": 2
+    },
+    {
+      "name": "Shell",
+      "repositories": 2
+    },
+    {
+      "name": "Awk",
+      "repositories": 1
+    },
+    {
+      "name": "C",
+      "repositories": 1
+    },
+    {
+      "name": "C++",
+      "repositories": 1
+    },
+    {
+      "name": "MATLAB",
+      "repositories": 1
+    },
+    {
+      "name": "PostScript",
+      "repositories": 1
+    }
+  ],
+  "updated": "Oct 6, 2026"
+}

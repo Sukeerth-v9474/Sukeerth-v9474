@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
+  <title id="title">Sukeerth Ramkumar — Robotics, learning, and autonomy</title>
+  <desc id="desc">A dark editorial banner with an original schematic connecting perception, planning, and action.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101e28"/><stop offset="1" stop-color="#172e36"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#78a2a0" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="268" rx="15" fill="url(#paper)" stroke="#315059"/>
+  <rect x="655" y="2" width="343" height="266" rx="14" fill="url(#grid)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="42" y="54" fill="#8bbdb5" font-size="11" letter-spacing="2.2">PERCEPTION → PLANNING → ACTION</text>
+    <text x="40" y="116" fill="#eff6f4" font-size="43" font-weight="600" letter-spacing="-1.2">Sukeerth Ramkumar</text>
+    <text x="42" y="159" fill="#d6a775" font-size="26" letter-spacing="-.4">Robotics. Learning. Autonomy.</text>
+    <path d="M42 191h550" stroke="#315059"/>
+    <text x="42" y="225" fill="#adbec1" font-size="14">Learning meets the structure of physical systems.</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m681 172 128-74 128 74-128 74Z m32-55 128 74 m-96-92 128 74 m-160 18 128-74 m-96 93 128-74" stroke="#497771" opacity=".48"/>
+    <path d="m775 106 34-20 35 20-35 20Z m-34-20v65l34 20 35-20v-65 m-35 20v65 m-23-5-12 41 19 10 15-42 m26-9 12 41-19 10-15-42 m-28-61-24 14-11 39 16 9 12-34 7-4 m69-24 24 14 11 39-16 9-12-34-7-4 m-50-79 15-9 15 9v19l-15 9-15-9Z" stroke="#9dbbb3" stroke-width="1.4"/>
+    <circle cx="890" cy="169" r="11" stroke="#d6a775" stroke-width="1.6"/>
+    <path d="M872 169h36m-18-18v36 m-57-59q44-16 57 41" stroke="#d6a775" stroke-width="1.2" stroke-dasharray="4 5"/>
+    <circle cx="834" cy="128" r="3" fill="#d6a775" stroke="none"/>
+  </g>
+</svg>

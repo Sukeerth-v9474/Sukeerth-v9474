@@ -27,3 +27,7 @@ node scripts/update-stats.mjs
 Descriptions follow the latest CV. Project titles and READMEs were used only to identify corresponding work. Private repository contents are not copied into this public profile. Recent projects stay private; accessible papers and institutional pages provide public references. TouchWorld remains explicitly submitted to ICRA 2027. Spacecraft papers are coauthored; the SAGES video is labeled a team demo.
 
 The private portfolio URL, CV/resume files, and repository inventory are absent. No existing repository is renamed, archived, deleted, or made public as part of this update.
+
+## Profile visibility and pins
+
+The account's existing activity privacy setting remains enabled. Four public repositories are configured as native pins: CS238, CS6700_Jan_May_2024_Team_Pioneers, Langton-Ant, and Stellar_Clusters_Horizon. GitHub's visitor preview currently hides the native pin panel with this privacy setting, so the README also provides the same four public project links and descriptions. The README and bio are visible to visitors. Changing account activity privacy is a separate decision; this refresh does not change it.
